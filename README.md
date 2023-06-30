@@ -1,4 +1,4 @@
-## Hi there! <img src="https://github.com/Derzz/Derzz/blob/main/Socials/comfywave.gif" width="32" height="32"/>
+## Hi there! <img src="https://github.com/Derzz/Derzz/blob/main/Socials/comfywave_quality.gif" width="32" height="32"/>
 
 
 
