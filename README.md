@@ -26,6 +26,6 @@ I'm Michael, a first year CS student studying at the University of Waterloo! I l
 <a href="https://steamcommunity.com/profiles/76561198876518313" target="blank"><img align="center" src="https://github.com/Derzz/Derzz/blob/main/Socials/steam.png" title = "Steam" alt="" height="30" /></a>
 <a href="https://www.instagram.com/derzpie/" target="blank"><img align="center" src="https://github.com/Derzz/Derzz/blob/main/Socials/instagram.png" title = "Instagram" alt="" height="30" /></a>
 
-## GitHub Stats
+## <img align="bottom" src="https://github.com/Derzz/Derzz/blob/main/Socials/coding.gif" width="32" height="32"/> GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=derzz&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
