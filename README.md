@@ -13,5 +13,6 @@ I'm Michael, a first year CS student studying at the University of Waterloo! I l
 ![Discord](https://img.shields.io/badge/derzpie-%235865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 ## <img align="bottom" src="https://github.com/Derzz/Derzz/blob/main/Socials/coding.gif" width="32" height="32"/> GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=derzz&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=derzz&show_icons=true&theme=tokyonight&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=derzz&layout=compact&theme=tokyonight)
 
