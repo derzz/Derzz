@@ -1,7 +1,7 @@
 ## Hi there! <img src="https://github.com/Derzz/Derzz/blob/main/Socials/comfywave_quality.gif" width="32" height="32"/>
 
 
-I'm Michael, a second year CS student studying at the University of Waterloo! I love to code and play games on my computer and Switch!
+I'm Michael, a third year CS student studying at the University of Waterloo! I love to code and play games on my computer and Switch!
 
 
 ## <img align="bottom" src="https://github.com/Derzz/Derzz/blob/main/Socials/internet.gif" width="32" height="32"/> Find me on the web! <img src="https://github.com/Derzz/Derzz/blob/main/Socials/internet.gif" width="32" height="32" align="bottom"/>
