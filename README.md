@@ -1,7 +1,7 @@
 ## Hi there! <img src="https://github.com/Derzz/Derzz/blob/main/Socials/comfywave_quality.gif" width="32" height="32"/>
 
 
-I'm Michael, a third year CS student studying at the University of Waterloo! I love to code and play games on my computer and Switch!
+I'm Michael, a fourth year CS student studying at the University of Waterloo! I love to code and play games on my computer and Switch!
 
 
 ## <img align="bottom" src="https://github.com/Derzz/Derzz/blob/main/Socials/internet.gif" width="32" height="32"/> Find me on the web! <img src="https://github.com/Derzz/Derzz/blob/main/Socials/internet.gif" width="32" height="32" align="bottom"/>
@@ -11,8 +11,4 @@ I'm Michael, a third year CS student studying at the University of Waterloo! I l
 <a href="https://www.instagram.com/derzpie/" target="blank">![Static Badge](https://img.shields.io/badge/DerzPie-%20%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white)</a>
 <a href="mailto:michaelx.10@hotmail.com" target="blank">![Static Badge](https://img.shields.io/badge/email-%2317a3ff?style=for-the-badge&logo=microsoftoutlook)</a>
 ![Discord](https://img.shields.io/badge/derzpie-%235865F2?style=for-the-badge&logo=discord&logoColor=white)
-
-## <img align="bottom" src="https://github.com/Derzz/Derzz/blob/main/Socials/coding.gif" width="32" height="32"/> GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=derzz&show_icons=true&theme=tokyonight&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=derzz&layout=compact&theme=tokyonight)
 
